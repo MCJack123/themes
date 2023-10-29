@@ -3,7 +3,7 @@
   padding: 10px 25px;
 }
 
-.menu-1QACrS .separator-2zcjq8 {
+.menu_dc52c6 .separator-2zcjq8 {
   display: none;
 }
 
@@ -21,15 +21,15 @@
   display: none;
 }
 
-.menu-1QACrS .scroller-1bVxF5,
-.menu-1QACrS .scroller-1bVxF5 [role*='group'] {
+.menu_dc52c6 .scroller-1bVxF5,
+.menu_dc52c6 .scroller-1bVxF5 [role*='group'] {
   display: flex;
   width: fit-content;
   width: fit-content !important;
   height: auto;
 }
 
-.layer-2aCOJ3[style*="; top: 5"][id*="popout_"] .menu-1QACrS {
+.layer-2aCOJ3[style*="; top: 5"][id*="popout_"] .menu_dc52c6 {
   left: 80px !important;
   top: -10px !important;
   width: fit-content !important;

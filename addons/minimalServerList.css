@@ -35,11 +35,11 @@
   transition: all .5s ease-in-out;
 }
 
-.base-2jDfDU {
+.base__3e6af {
   left: 4px;
   transition: left .5s ease-in-out;
 }
 
-.wrapper-1Rf91z:hover ~ .base-2jDfDU {
+.wrapper-1Rf91z:hover ~ .base__3e6af {
   left: var(--list-size);
 }

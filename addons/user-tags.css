@@ -6,20 +6,20 @@
   --mc: var(--main-color);
 }
 
-#app-mount .avatar-2e8lTP + h2 {
+#app-mount .avatar__08316 + h2 {
   overflow: visible;
 }
 
-.avatar-2e8lTP:hover + h2 {
+.avatar__08316:hover + h2 {
   opacity: 1;
 }
 
-.chat-2ZfjoI>.content-1jQy2l .messages-3amgkR .containerCozy-jafyvG,
-.container-3FojY8 {
+.chat__52833>.content__1a4fe .messages-3amgkR .containerCozy-jafyvG,
+.container_aed774 {
   overflow: visible;
 }
 
-.avatar-2e8lTP + h2::after {
+.avatar__08316 + h2::after {
   color: var(--main-color, var(--mc, rgb(var(--BG-tint-colour, 114, 137, 218))));
   font-size: 13px;
   position: absolute;
@@ -33,7 +33,7 @@
   z-index: 1;
 }
 
-.avatar-2e8lTP:hover + h2::after {
+.avatar__08316:hover + h2::after {
   font-family: "Whitney", "Helvetica";
   --main-color: #000;
   background-color: var(--main-color);
@@ -54,7 +54,7 @@
   bottom: -31px;
 }
 
-#app-mount .messagesPopoutWrap-3zryHW .avatar-2e8lTP+ h2::after{
+#app-mount .messagesPopoutWrap_b3b384 .avatar__08316+ h2::after{
   display: none !important;
 }
 
@@ -62,53 +62,53 @@
 /* ========= START OF USER TAGS ============== */
 
   /* before hover */
-.avatar-2e8lTP[src*="107511169366888448"] + h2::after,
-.avatar-2e8lTP[src*="128948605263413248"] + h2::after,
-.avatar-2e8lTP[src*="135824276535115776"] + h2::after,
-.avatar-2e8lTP[src*="443765978132643850"] + h2::after,
-.avatar-2e8lTP[src*="96563253466898432"] + h2::after,
-.avatar-2e8lTP[src*="267803219080642560"] + h2::after,
-.avatar-2e8lTP[src*="194830015353847817"] + h2::after,
-.avatar-2e8lTP[src*="460174770957189155"] + h2::after,
-.avatar-2e8lTP[src*="773960830034378763"] + h2::after{
+.avatar__08316[src*="107511169366888448"] + h2::after,
+.avatar__08316[src*="128948605263413248"] + h2::after,
+.avatar__08316[src*="135824276535115776"] + h2::after,
+.avatar__08316[src*="443765978132643850"] + h2::after,
+.avatar__08316[src*="96563253466898432"] + h2::after,
+.avatar__08316[src*="267803219080642560"] + h2::after,
+.avatar__08316[src*="194830015353847817"] + h2::after,
+.avatar__08316[src*="460174770957189155"] + h2::after,
+.avatar__08316[src*="773960830034378763"] + h2::after{
   content: "}";
 }
 
 
   /* on hover */
-.avatar-2e8lTP[src*="194830015353847817"]:hover + h2::after {
+.avatar__08316[src*="194830015353847817"]:hover + h2::after {
   content: 'Cheesus';
   --main-color: #51007a;
 }
 
-.avatar-2e8lTP[src*="460174770957189155"]:hover + h2::after {
+.avatar__08316[src*="460174770957189155"]:hover + h2::after {
   content: 'Currently dying rn';
   --main-color: #008080;
 }
 
-.avatar-2e8lTP[src*="267803219080642560"]:hover + h2::after {
+.avatar__08316[src*="267803219080642560"]:hover + h2::after {
   content: "CEO of Red";
   --main-color: #cc2c24;
 }
 
-.avatar-2e8lTP[src*="128948605263413248"]:hover + h2::after {
+.avatar__08316[src*="128948605263413248"]:hover + h2::after {
   content: "Dongus";
 }
 
-.avatar-2e8lTP[src*="135824276535115776"]:hover + h2::after {
+.avatar__08316[src*="135824276535115776"]:hover + h2::after {
   content: "Village Idiot";
 }
 
-.avatar-2e8lTP[src*="443765978132643850"]:hover + h2::after {
+.avatar__08316[src*="443765978132643850"]:hover + h2::after {
   content: "NEET";
   --main-color: #3ecc9c;
 }
 
-.avatar-2e8lTP[src*="96563253466898432"]:hover + h2::after {
+.avatar__08316[src*="96563253466898432"]:hover + h2::after {
   content: "Universal Architect";
 }
 
-.avatar-2e8lTP[src*="773960830034378763"]:hover + h2::after {
+.avatar__08316[src*="773960830034378763"]:hover + h2::after {
   content: "Birdlinux";
   --main-color: white;
   color: black;
