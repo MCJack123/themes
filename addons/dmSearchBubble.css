@@ -1,4 +1,4 @@
-#app-mount .privateChannels__93473 .searchBar_e4ea2a {
+#app-mount .privateChannels__9b518 .searchBar__621ec {
   position: absolute;
   bottom: 20px;
   right: 5px;
@@ -15,16 +15,16 @@
   padding: 0;
 }
 
-#app-mount .privateChannels__93473 .searchBar_e4ea2a .searchBarComponent__22760 {
+#app-mount .privateChannels__9b518 .searchBar__621ec .searchBarComponent__8f95f {
   background-color: transparent !important;
 }
 
-.privateChannels__93473 .searchBar_e4ea2a .inner__178b2 {
+.privateChannels__9b518 .searchBar__621ec .inner__178b2 {
   height: 100%;
   width: 100%;
 }
 
-#app-mount .privateChannels__93473 .searchBar_e4ea2a .searchBarComponent__22760::after {
+#app-mount .privateChannels__9b518 .searchBar__621ec .searchBarComponent__8f95f::after {
   content: '';
   position: absolute;
   height: 100%;
@@ -35,7 +35,7 @@
   pointer-events: none;
 }
 
-#app-mount .privateChannels__93473 .searchBar_e4ea2a .searchBarComponent__22760::before {
+#app-mount .privateChannels__9b518 .searchBar__621ec .searchBarComponent__8f95f::before {
   content: 'Search Direct Messages';
   position: absolute;
   top: 50%;
@@ -51,15 +51,15 @@
   pointer-events: none;
 }
 
-#app-mount .privateChannels__93473 .searchBar_e4ea2a .searchBarComponent__22760 {
+#app-mount .privateChannels__9b518 .searchBar__621ec .searchBarComponent__8f95f {
   color: transparent;
 }
 
-#app-mount .privateChannels__93473 .searchBar_e4ea2a:hover {
+#app-mount .privateChannels__9b518 .searchBar__621ec:hover {
   width: 200px;
 }
 
-.privateChannels__93473 .scrollerWrap-2lJEkd::after {
+.privateChannels__9b518 .scrollerWrap-2lJEkd::after {
   content: '';
   position: absolute;
   top: 0;
@@ -71,6 +71,6 @@
   z-index: 9999;
 }
 
-.privateChannels__93473 .scrollerWrap-2lJEkd .scroller-2FKFPG {
+.privateChannels__9b518 .scrollerWrap-2lJEkd .scroller-2FKFPG {
   margin-top: 50px;
 }

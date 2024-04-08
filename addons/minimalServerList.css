@@ -35,11 +35,11 @@
   transition: all .5s ease-in-out;
 }
 
-.base__3e6af {
+.base_c0676e {
   left: 4px;
   transition: left .5s ease-in-out;
 }
 
-.wrapper-1Rf91z:hover ~ .base__3e6af {
+.wrapper-1Rf91z:hover ~ .base_c0676e {
   left: var(--list-size);
 }

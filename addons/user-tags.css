@@ -14,8 +14,8 @@
   opacity: 1;
 }
 
-.chat__52833>.content__1a4fe .messages-3amgkR .containerCozy-jafyvG,
-.container_aed774 {
+.chat__52833>.content__01e65 .messages-3amgkR .containerCozy-jafyvG,
+.container__2acd5 {
   overflow: visible;
 }
 
@@ -54,7 +54,7 @@
   bottom: -31px;
 }
 
-#app-mount .messagesPopoutWrap_b3b384 .avatar__08316+ h2::after{
+#app-mount .messagesPopoutWrap__10dd1 .avatar__08316+ h2::after{
   display: none !important;
 }
 

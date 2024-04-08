@@ -78,7 +78,7 @@
 
 /* My friends and my borders/glow */
   /* mine */
-.contents_f41bb2 .avatar__08316[src*="402272736665272320"] + h2::before{
+.contents_d3ae0d .avatar__08316[src*="402272736665272320"] + h2::before{
   content: '';
   position: absolute;
   height: 44px;
@@ -93,23 +93,23 @@
   z-index: -1;
 }
 
-.contents_f41bb2 .avatar__08316[src*="402272736665272320"]:hover + h2::before{
+.contents_d3ae0d .avatar__08316[src*="402272736665272320"]:hover + h2::before{
   border-radius: var(--roundness, var(--user-roundness, 50px)) !important;
 }
 
-.contents_f41bb2 .avatar__08316[src*="402272736665272320"] + h2::before {
+.contents_d3ae0d .avatar__08316[src*="402272736665272320"] + h2::before {
   background-image: url(https://i.gifer.com/fyD3.gif);
   box-shadow: 0 0 5px rgba(246, 255, 192, 0.658);
 }
 
   /* ellie */
-.contents_f41bb2 .avatar__08316[src*="213220786805145600"] {
+.contents_d3ae0d .avatar__08316[src*="213220786805145600"] {
   animation: eve-glow 1s ease-in-out infinite alternate;
   filter: drop-shadow(0 0 5px #b71cff);
   transition: filter 200ms ease-in-out;
 }
 
-.contents_f41bb2 .avatar__08316[src*="213220786805145600"]:hover {
+.contents_d3ae0d .avatar__08316[src*="213220786805145600"]:hover {
   animation-play-state: paused;
 }
 
@@ -120,12 +120,12 @@
 }
 
  /* izy for helping me out */
-.contents_f41bb2 .avatar__08316[src*="107511169366888448"] + h2::before {
+.contents_d3ae0d .avatar__08316[src*="107511169366888448"] + h2::before {
   background-image: url(https://i.imgur.com/sxvFvSq.gif);
   box-shadow: 0 0 5px rgb(246 255 192 / 66%);
 }
 
-.contents_f41bb2 .avatar__08316[src*="107511169366888448"] + h2::before {
+.contents_d3ae0d .avatar__08316[src*="107511169366888448"] + h2::before {
   content: '';
   position: absolute;
   height: 44px;
