@@ -1,4 +1,4 @@
-.privateChannels__9b518 .channel__0aef5:not([href*="/channels/@me/"]):not([categoryid]) {
+.privateChannels_f0963d .channel_c91bad:not([href*="/channels/@me/"]):not([categoryid]) {
   position: relative;
   float: left;
   margin: 0px 33px;
@@ -10,7 +10,7 @@
   transition: none;
 }
 
-.privateChannels__9b518 .channel__0aef5:not([href*="/channels/@me/"]):not([categoryid]) .layout_bb8e67 {
+.privateChannels_f0963d .channel_c91bad:not([href*="/channels/@me/"]):not([categoryid]) .layout_e9f61e {
   padding: 0px;
   width: 100%;
   height: 100%;
@@ -19,23 +19,23 @@
   border-radius: 5px;
 }
 
-.privateChannels__9b518 .channel__0aef5:not([href*="/channels/@me/"]):not([categoryid]):hover {
+.privateChannels_f0963d .channel_c91bad:not([href*="/channels/@me/"]):not([categoryid]):hover {
   border-left: none !important;
 }
 
-.privateChannels__9b518 .channel__0aef5:not([href*="/channels/@me/"]):not([categoryid]).selected__7f4cb {
+.privateChannels_f0963d .channel_c91bad:not([href*="/channels/@me/"]):not([categoryid]).selected_e9f61e {
   background-color: var(--main-color);
 }
 
-.privateChannels__9b518 .channel__0aef5:not([href*="/channels/@me/"]):not([categoryid]) .content_e8a0d1 {
+.privateChannels_f0963d .channel_c91bad:not([href*="/channels/@me/"]):not([categoryid]) .content_e9f61e {
   display: none;
 }
 
-.privateChannels__9b518 .channel__0aef5:not([href*="/channels/@me/"]):not([categoryid]) .layout_bb8e67 .avatar__6337f {
+.privateChannels_f0963d .channel_c91bad:not([href*="/channels/@me/"]):not([categoryid]) .layout_e9f61e .avatar_e9f61e {
   margin: 0;
 }
 
-.privateChannels__9b518 .channel__0aef5:not([href*="/channels/@me/"]):not([categoryid]) .children_cf6731 {
+.privateChannels_f0963d .channel_c91bad:not([href*="/channels/@me/"]):not([categoryid]) .children_e9f61e {
   position: absolute;
   top: 0;
   right: 0;
